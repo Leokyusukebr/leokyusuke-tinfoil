@@ -1,0 +1,7 @@
+{
+  "name": "Leokyusuke Games",
+  "description": "Coleção pessoal de jogos",
+  "title": "Loja Switch Leokyusuke",
+  "url": "https://github.com/Leokyusukebr/leokyusuke-tinfoil/jogos.json",
+  "nsfw": false
+}
